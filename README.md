@@ -1,8 +1,6 @@
 # PT_algorithm
- 
-dataset | size | demension | acquire
- -------- | :-----------:  | :-----------: 
-1 | 2 | 3 | 4
+
+
 
 
 | dataset      | size     | demension    | ssss | |
@@ -12,7 +10,3 @@ dataset | size | demension | acquire
 
 
 
-
- 表格      | 第一列     | 第二列     
- -------- | :-----------:  | :-----------: 
- 第一行     | 第一列     | 第二列     
